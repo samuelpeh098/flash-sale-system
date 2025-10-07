@@ -139,7 +139,7 @@ function App() {
     <div className="App" style={{ padding: '24px', backgroundColor: '#f5f5f5', minHeight: '100vh' }}>
       <div style={{ maxWidth: '800px', margin: '0 auto' }}>
         <Title level={1} style={{ textAlign: 'center', marginBottom: '32px' }}>
-          🔥 Flash Sale
+          Flash Sale
         </Title>
 
         {/* Sale Status Card */}
