@@ -71,12 +71,6 @@ Runs the app at [http://localhost:3000](http://localhost:3000)
 ### `npm test`
 Launches test runner
 
-### `npm run build`
-Builds for production to `build/` folder
-
-### `npm run eject`
-⚠️ One-way operation. Ejects from Create React App.
-
 ## Tech Stack
 
 - React 18 + TypeScript
